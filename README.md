@@ -1,2 +1,1 @@
-# AppAMP-Theme
-AppAMP Theme
+# AppAMP-Theme :https://shakilsquad.github.io/AppAMP-Theme/
